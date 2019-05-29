@@ -1,0 +1,6 @@
+Sibiu Fagaras 99
+Sibiu Rimnicu_Vilcea 80
+Rimnicu_Vilcea Pitesti 97
+Fagaras Bucharest 211
+Pitesti Bucharest 101
+Bucharest Bucharest 0
